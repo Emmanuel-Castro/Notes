@@ -1,1 +1,4 @@
 Hello World
+
+In this file, i'm going to express my thoughts about some topics with the objective of
+improve my technical writing skills.
