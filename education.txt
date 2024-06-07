@@ -10,3 +10,10 @@ are several reasons for the lack of development in this topic: Political, histor
 cultural, etc. And the consequences of this involution affects us considerably every day:
 Lack of economic development, consistent poverty, poor social development, reduced
 quality of life, propensity of social conflicts, democracy weakness, between others.
+
+Despite the fact that we are in the 21st century and technological innovations are
+constantly improving all the aspects of our lives, in the context of education, the 
+education model in the region is still obsolete. Therefore, millions of latin americans
+are suffering a digital gap that will grow each year due to poor pedagogical approaches in
+the education system, lack of public policies from the government, low eagerness for knowledge,
+between other reasons.    
