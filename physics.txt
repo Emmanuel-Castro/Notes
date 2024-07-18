@@ -1,0 +1,14 @@
+Hello World.
+
+In this file, I'm going to create short paragraphs about physics-related topics.
+
+
+TOPIC #1 -> Importance of Science Communication.
+
+Science has made important contributions to humankind. Thanks to science,
+our society experienced innovations that improved our lives exponentially.
+
+Based on that premise, the importance of the diffusion of science communication 
+is more important in an era that massive disinformation, the spread of ignorance, 
+extreme polarization and many other issues are the daily bread of millions of people
+Around the world.
