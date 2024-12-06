@@ -6,3 +6,10 @@ concepts can be demystified, increasing public understanding of crucial issues s
 public health, and technology. The accessibility of scientific knowledge promotes a more informed citizenry, 
 capable of making informed decisions and actively participating in public debates and policies related 
 to science.
+
+The role of scientists and science communicators is crucial to the success of science communication. 
+Scientists must not only conduct rigorous research, but also develop communication skills to explain 
+their findings in a clear and engaging manner. On the other hand, science communicators act as intermediaries, 
+interpreting and contextualizing scientific information to make it accessible to the general public. 
+Collaboration between scientists and communicators is essential to ensure that the information disseminated 
+is accurate and relevant.
