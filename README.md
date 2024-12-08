@@ -1,11 +1,18 @@
 Notes Repository
 
-This is a test repository created with the aim of improving some technical skills.
+The purpose of this repository is to improve some skills through practice. 
 
-Each .txt file will consist in short articles about some topics explained by my own words.
+The content consists of short text format articles about topics of interest. 
 
-Skills to improve:
+Here are the main skills I want to improve with this project: 
 
-- Git 
-- Writing Skills
-- Documentation
+Git: Version control software to manage repo versions. I want to master this technology 
+to improve my teamwork skills. Collaboration is key in software development. 
+
+Communication Skills: This is the most important soft skill for software developers. 
+Written communication is just as important as verbal. So, in this case, I want to learn 
+to communicate in an effective way through writing. 
+
+Tech Writing: For me, to understand the fundamentals of this skill will have an impact 
+on my work. Through constant practice, I may be able to express technical concepts in 
+a simple way. 
