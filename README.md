@@ -18,3 +18,7 @@ to communicate in an effective way through writing.
 - **Tech Writing**: For me, to understand the fundamentals of this skill will have an impact 
 on my work. Through constant practice, I may be able to express technical concepts in 
 a simple way.
+
+- **Markdown**: Another one of the tech skills I want to learn and improve is documentation.
+So, the simple way I can do that is to learn how to use Markdown, the markup language to write
+technical documentation, collaborative software and README files.
