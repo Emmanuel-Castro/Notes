@@ -11,7 +11,8 @@ Frameworks
 
 Django -> Django 5.1
 Node.js
-
+TalwindCSS
+Bootstrap -> Bootstrap 5
 
 Bases de Datos
 
@@ -31,4 +32,4 @@ Microsoft PowerShell -> PowerShell 5.1
 Otros
 
 Windows Subsystem for Linux -> WSL 2
-SQL Server Management Studio (SSMS 20.2.1)
+SQL Server Management Studio -> SSMS 20.2.1
