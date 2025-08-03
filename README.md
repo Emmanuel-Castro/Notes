@@ -1,10 +1,14 @@
 # Notes Repository
 
 
+#### Introduction
+
 The purpose of this repository is to improve documentation and writing skills.
 
 The content consists of in simple plain text files with some information on it.
 
+
+#### Skills to improve
 
 Here are the main skills I want to improve with this simple repository: 
 
@@ -22,3 +26,6 @@ a simple way.
 - **Markdown**: Another one of the tech skills I want to learn and improve is documentation.
 So, the simple way I can do that is to learn how to use Markdown, the markup language to write
 technical documentation, collaborative software and README files.
+
+
+#### Structure
