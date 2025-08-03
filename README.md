@@ -1,13 +1,11 @@
 # Notes Repository
 
 
-
 ### Introduction
 
 The purpose of this repository is to improve documentation and writing skills.
 
 The content consists of in simple plain text files with some information on it.
-
 
 
 ### Skills to improve
@@ -30,5 +28,15 @@ So, the simple way I can do that is to learn how to use Markdown, the markup lan
 technical documentation, collaborative software and README files.
 
 
-
 ### Structure
+
+Here is the structure of the repository:
+
+- **README** file: The Markdown format file with all the information about the project.
+
+- **education** directory: A practice directory with topics and issues related to education.
+
+- **science-tech** directory: A practice directory with topics and issues related to science
+technology.
+
+- **stack.txt** file: A text format file with information about my personal tech stack.
