@@ -1,9 +1,42 @@
-Notes
+# Notes Repository
 
-This is a test repository created with the objective of improve some development skills.
 
-Skills to improve:
+### Introduction
 
-- Git 
-- Writing
-- Documentation
+The purpose of this repository is to improve documentation and writing skills.
+
+The content consists of in simple plain text files with some information on it.
+
+
+### Skills to improve
+
+Here are the main skills I want to improve with this simple repository: 
+
+- **Git**: Version control software to manage repo versions. I want to master this technology 
+to improve my teamwork skills. Collaboration is key in software development. 
+
+- **Communication**: This is the most important soft skill for software developers. 
+Written communication is just as important as verbal. So, in this case, I want to learn 
+to communicate in an effective way through writing. 
+
+- **Tech Writing**: For me, to understand the fundamentals of this skill will have an impact 
+on my work. Through constant practice, I may be able to express technical concepts in 
+a simple way.
+
+- **Markdown**: Another one of the tech skills I want to learn and improve is documentation.
+So, the simple way I can do that is to learn how to use Markdown, the markup language to write
+technical documentation, collaborative software and README files.
+
+
+### Structure
+
+Here is the structure of the repository:
+
+- **README** file: The Markdown format file with all the information about the project.
+
+- **education** directory: A practice directory with topics and issues related to education.
+
+- **science-tech** directory: A practice directory with topics and issues related to science
+technology.
+
+- **stack.txt** file: A text format file with information about my personal tech stack.

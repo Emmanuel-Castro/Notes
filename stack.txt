@@ -1,0 +1,35 @@
+Tech Stack (As of July 2025)
+
+
+Programming Languages
+
+Python -> Python 3.13.0
+JavaScript -> ES6
+
+
+Frameworks
+
+Django -> Django 5.1
+Node.js
+TalwindCSS
+Bootstrap -> Bootstrap 5
+
+Databases
+
+PostgreSQL
+SQLite -> SQLite 3.45.3
+SQL Server -> SQL Server 2022
+
+
+Development Environment
+
+Git -> Git 2.47.0
+GNU/Linux -> Linux 5.10.16.3
+Ubuntu -> Ubuntu 24.04.1 LTS
+Microsoft PowerShell -> PowerShell 5.1
+
+
+Others
+
+Windows Subsystem for Linux -> WSL 2
+SQL Server Management Studio -> SSMS 20.2.1

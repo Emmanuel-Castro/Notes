@@ -1,9 +1,0 @@
-Hello World
-
-In this file, i'm going to make short paragraphs about some topics with the objective of
-improve my software development related skills.
-
-
-Topics:
-
-- Education
